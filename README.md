@@ -9,7 +9,7 @@
 -   Tailwind CSS
 -   Daisy UI
 -   Typescript
--   prisma
+-   Prisma
 -   SQLite
 
 ## Getting Started
